@@ -1,5 +1,7 @@
 # 급여 대행 프로그램 저장소 — 작업 규칙
 
+> **이 저장소는 옮겨졌습니다 (2026-11-24).** 새 위치는 `jinolabor/payroll` (https://jinolabor.github.io/payroll/) 입니다. 프로그램 수정은 새 저장소에만 올리고, 여기에는 올리지 않습니다. 이곳은 TEAM JINO 구성원 PC 자료 확인이 끝나면 안내 화면으로 바뀝니다.
+
 이 저장소의 `index.html` 은 GitHub Pages(https://dhkim0629-ops.github.io/jino-payroll/)로 TEAM JINO 구성원에게 바로 배포된다.
 
 ## 반드시 지킬 것
